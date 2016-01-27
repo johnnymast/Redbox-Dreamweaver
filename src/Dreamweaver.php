@@ -23,7 +23,3 @@ class Dreamweaver {
         return $password;
     }
 }
-
-$pass = '505572726E465E4D';
-
-echo '@@'.Dreamweaver::decode_password($pass);
