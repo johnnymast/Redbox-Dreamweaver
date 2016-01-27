@@ -1,0 +1,44 @@
+{
+  "name": "redbox/dreamweaver",
+  "description": "",
+  "keywords": [
+
+  ],
+  "homepage": "https://github.com/johnnymast/redbox-dreamweaver",
+  "support": {
+    "issues": "https://github.com/johnnymast/redbox-dreamweaver/issues",
+    "email": "mastjohnny@gmail.com"
+  },
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Johnny Mast",
+      "email": "mastjohnny@gmail.com",
+      "homepage": "https://github.com/johnnymast",
+      "role": "lead"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Redbox\\Dreamweaver\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Redbox\\Dreamweaver\\Tests\\": "tests/"
+    }
+  },
+  "scripts": {
+    "test": "phpunit"
+  }
+}
+
+
+
