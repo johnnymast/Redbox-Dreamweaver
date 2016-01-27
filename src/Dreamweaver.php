@@ -1,4 +1,5 @@
 <?php
+namespace Redbox\Dreamweaver;
 
 class Dreamweaver {
 
