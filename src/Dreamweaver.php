@@ -3,6 +3,12 @@ namespace Redbox\Dreamweaver;
 
 class Dreamweaver {
 
+    /**
+     * Encode a given password
+     *
+     * @param string $string
+     * @return string
+     */
     public static function encode_password($string = '') {
         $items = [];
         $len = strlen($string);
@@ -13,6 +19,12 @@ class Dreamweaver {
         return strtoupper(implode('', $items));
     }
 
+    /**
+     * Decode a given password.
+     *
+     * @param string $encoded
+     * @return string
+     */
     public static function decode_password($encoded = '') {
         $literals = explode(' ', wordwrap($encoded, 2, ' ', 2));
         $password = '';
