@@ -8,3 +8,16 @@
 # Redbox-dreamweaver
 
 This is not finished
+
+
+## Author
+
+This package is created and maintained by [Johnny Mast](https://github.com/johnnymast). For feature requests and suggestions
+you could consider sending me an e-mail or fill out an [issue](https://github.com/johnnymast/redbox-dreamweaver/issues).
+
+## License
+
+Redbox-dreamweaver is released under the MIT public license.
+
+[LICENSE](LICENSE.md)
+
