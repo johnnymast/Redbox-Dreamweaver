@@ -7,7 +7,7 @@
 
 # redbox-dreamweaver
 
-Use this tool en encode or decode Adobe Dreamweaver passwords. In the examples directory you will find a demonstration on how to use the package.
+Use this tool to encode or decode Adobe Dreamweaver passwords. In the examples directory you will find a demonstration on how to use the package.
 
 ## Howto use the package
 Look in the examples folder for basic [examples](examples) of how to use the package.
@@ -40,7 +40,6 @@ you could consider sending me an e-mail or fill out an [issue](https://github.co
 Redbox-dreamweaver is released under the MIT public license.
 
 [LICENSE](LICENSE.md)
-
 
 ## Enjoy
 
