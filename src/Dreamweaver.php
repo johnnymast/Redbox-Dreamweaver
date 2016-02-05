@@ -1,8 +1,8 @@
 <?php
 namespace Redbox\Dreamweaver;
 
-class Dreamweaver {
-
+class Dreamweaver
+{
     /**
      * Encode a given password
      *
