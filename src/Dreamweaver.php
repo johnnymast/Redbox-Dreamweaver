@@ -10,7 +10,7 @@ class Dreamweaver
      * @return string
      */
     public static function encode_password($string = '') {
-        $items = [];
+        $items = array();
         $len = strlen($string);
         for ($i = 0; $i < $len; $i++)
         {
