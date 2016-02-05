@@ -7,7 +7,26 @@
 
 # Redbox-dreamweaver
 
-This is not finished
+Use this tool en encode or decode Adobe Dreamweaver passwords. In the examples directory you will find a demonstration on how to use the package.
+
+## Howto use the package
+Look in the examples folder for basic [examples](examples) of how to use the package.
+
+## Installation
+
+Using [composer](https://packagist.org/packages/redbox/dreamweaver):
+
+```bash
+$ composer require redbox/dreamweaver
+```
+## Requirements
+
+The following versions of PHP are supported by this version.
+
++ PHP 5.4
++ PHP 5.5
++ PHP 5.6
++ HHVM
 
 
 ## Author
