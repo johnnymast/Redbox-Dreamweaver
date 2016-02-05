@@ -5,7 +5,7 @@
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Contact author)](https://twitter.com/intent/tweet?text=@mastjohnny)
 
 
-# Redbox-dreamweaver
+# redbox-dreamweaver
 
 Use this tool en encode or decode Adobe Dreamweaver passwords. In the examples directory you will find a demonstration on how to use the package.
 
@@ -23,6 +23,7 @@ $ composer require redbox/dreamweaver
 
 The following versions of PHP are supported by this version.
 
++ PHP 5.3
 + PHP 5.4
 + PHP 5.5
 + PHP 5.6
