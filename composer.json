@@ -1,8 +1,8 @@
 {
   "name": "redbox/dreamweaver",
-  "description": "",
+  "description": "This simple and easy to tool allows you to encode or decode Adobe Dreamweaver passwords.",
   "keywords": [
-
+    "development", "security","passwords", "encode", "decode", "utility", "adobe", "dreamweaver"
   ],
   "homepage": "https://github.com/johnnymast/redbox-dreamweaver",
   "support": {

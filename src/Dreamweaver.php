@@ -27,11 +27,12 @@ class Dreamweaver
      */
     public static function decode_password($encoded = '') {
         $literals = explode(' ', wordwrap($encoded, 2, ' ', 2));
-        $password = '';
-        for ($i = 0; $i < count($literals); $i++) {
-            $password .= chr(hexdec($literals[$i]) - $i);
-        }
+        $length   = count($literals);
+        $pass     = '';
 
-        return $password;
+        for ($i = 0; $i < $length; $i++) {
+            $pass .= chr(hexdec($literals[$i]) - $i);
+        }
+        return $pass;
     }
 }
