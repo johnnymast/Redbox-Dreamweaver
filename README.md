@@ -41,3 +41,7 @@ Redbox-dreamweaver is released under the MIT public license.
 
 [LICENSE](LICENSE.md)
 
+
+## Enjoy
+
+Oh and if you've come down this far, you might as well [follow me](https://twitter.com/mastjohnny) on twitter.
